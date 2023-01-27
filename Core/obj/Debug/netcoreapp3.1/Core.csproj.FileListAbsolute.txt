@@ -1,0 +1,13 @@
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\HUSEYINKEREM\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
